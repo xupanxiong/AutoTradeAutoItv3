@@ -1,4 +1,4 @@
-#include-once
+
 #include<File.au3>
 
 Func PreCloseMsg($TodDayNum,  $TradeType, $HoldDirection, $AuTDCurrPrice, $HoldHands, $HoldOpenPrice, $TimeStap)
